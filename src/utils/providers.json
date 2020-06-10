@@ -2452,6 +2452,19 @@
     ]
   },
   {
+    "provider_name": "TikTok",
+    "provider_url": "https://www.tiktok.com",
+    "endpoints": [
+      {
+        "schemes": [
+          "https://www.tiktok.com/*/video/*"
+        ],
+        "url": "https://www.tiktok.com/oembed",
+        "discovery": true
+      }
+    ]
+  },
+  {
     "provider_name": "Toornament",
     "provider_url": "https://www.toornament.com/",
     "endpoints": [
